@@ -1,14 +1,23 @@
-<link rel="stylesheet" href="/style.css" />
-h1{
-  font-family: Monospace;
-  color:red;
-}
-h2{
+
+ h1{
+
   font-family: verdana;
   color:black;
 }
-body{
-    background-color: #ffd9cc;
-}  
+
+ h2{
+  font-family: verdana;
+  color:blue;
+}
+
+p{
+ font-family: verdana;
+}
+
+body {
+    background-color: #33ccff;
+}
+
+
 
 
